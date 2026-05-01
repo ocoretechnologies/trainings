@@ -1,5 +1,0 @@
-auth_url = "http://10.200.0.10:5000/v3"
-username = "admin"
-password = "Brxn23YDnYfIDATsBYjhQ5ygbLwp2mwdmUlYw8Gy"
-tenant_name = "admin"
-region = "RegionOne"
